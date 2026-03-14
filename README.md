@@ -68,7 +68,7 @@ src
 
 ```bash id="df9a2x"
 git clone https://github.com/harshiINF/portfolio-tegar/portfolio
-cd portfolio3d
+cd portfolio-tegar/portfolio
 npm install
 npm run dev
 ```
