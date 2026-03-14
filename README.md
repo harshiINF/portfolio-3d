@@ -67,7 +67,7 @@ src
 ## Installation
 
 ```bash id="df9a2x"
-git clone https://github.com/yourusername/portfolio3d
+git clone https://github.com/harshiINF/portfolio3d
 cd portfolio3d
 npm install
 npm run dev
